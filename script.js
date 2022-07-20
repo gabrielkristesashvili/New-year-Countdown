@@ -1,3 +1,11 @@
+//----------------------------------------------------------------//
+//
+//
+//
+//
+//
+//
+//
 const daysEl = document.getElementById('days')
 const hoursEl = document.getElementById('hours')
 const minutesEl = document.getElementById('mins')
@@ -28,3 +36,13 @@ function formatTime(time) {
 
 countdown();
 setInterval(countdown, 1000);
+
+
+//
+//
+//
+//
+//
+//
+//
+//----------------------------------------------------------------//
